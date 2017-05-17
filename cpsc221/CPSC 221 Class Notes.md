@@ -106,6 +106,8 @@ _A comprehensive compilation of notes for CPSC 221 2017S1_
 		for (int i=0; i < 100; i++)
 		A[i] = (i+1) * A[i-1];
 		```
+
+## Lecture 2
 		
 ### Data Structures as Algorithms; Abstract Data Types
 #### Algorithm
@@ -183,3 +185,55 @@ If `x` is enqueued before `y` is enqueued, then `x` will be dequeued before `y` 
 
 ### Circular Array Q Data Structure
 ![Circular Array Q Data Structure](http://cl.ly/0n3m460f1i0Q/s.png)
+
+### Circular Array Q Example
+![sb](http://cl.ly/133a2g0f093Z/s.png)
+
+### Pointer Examples
+- A pointer is a *data type* that contains the address of the object in memory, but it is *not* the object itself. We decalre a pointer to an object in the following way:
+
+	`dataType *identifier`
+
+- ![pnt](http://cl.ly/0t3n240A4045/s.png)
+- Function `new` returns a *pointer* to a memory block for a given type.
+
+### Linked List Q Data Structure
+![ll](http://cl.ly/3G2o3X3y0a1m/s.png)
+
+### Circular Array vs. Linked List
+- Ease of Implementation
+	- About the same
+- Generality
+	- LinkedList
+		- Not constrained to fixed size
+- Speed
+	- O(1) per operation.
+	- Larger contant for LL
+- Memory Use
+		- Caching performance worse for LL
+
+### Stack ADT
+#### Stack Operations
+- create
+- destroy
+- push
+- pop
+- top
+- is_empty
+
+#### Stack property
+if `x` is pushed before `y` is pushed, then `x` will be popped after `y` is opped.
+
+> LIFO: Last In First Out
+
+![stacks](http://cl.ly/0n3L3Y391143/s.png)
+
+#### Stacks in Practice
+- Implementing a function call stack
+- Removing recursion
+- Balancing symbols (e.g., parentheses)
+- Evaluating Reverse Polish Notation (RPN)
+- Performing a depth-first search (DFS)
+
+#### Array Stack Data Structure
+![ArrayStack](http://cl.ly/3g3A2M1K120u/s.png)

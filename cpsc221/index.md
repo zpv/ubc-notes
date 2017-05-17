@@ -7,7 +7,7 @@ Contributor: Steven Zhao
 
 
 
-- [Class Notes](class-notes)
+- [Class Notes](CPSC 221 Class Notes)
 - [Textbook Notes](text-notes)
 
 ---

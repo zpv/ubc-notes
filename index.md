@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to UBC Notes
 
-You can use the [editor on GitHub](https://github.com/zpv/ubc-notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a collection of notes I've written for courses I took at UBC and uploaded to share for anyone to use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, I make no guarantees that these notes are up to date with your class. There may also be section-specific material that are omitted or included.
 
-### Markdown
+---
+### Computer Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Listed are the notes available for various CPSC courses that I prepared notes for.
 
-```markdown
-Syntax highlighted code block
+- [CPSC 221](cpsc221) (2017S1 - Jan)
 
-# Header 1
-## Header 2
-### Header 3
+### Commerce
 
-- Bulleted
-- List
+Listed are the notes available for various COMM courses that I prepared notes for.
 
-1. Numbered
-2. List
+- [CPSC 290](comm290) (2017S1 - Graham)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zpv/ubc-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+If you have any notes/material you would like to share, send me an email at [steven@zhao.io](mailto:steven@zhao.io).
